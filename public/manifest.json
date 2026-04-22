@@ -1,0 +1,12 @@
+{
+  "name": "Palangrier — Gestion Armateur",
+  "short_name": "Palangrier",
+  "description": "Gestion des décomptes de pêche palangrier",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#faf6ed",
+  "theme_color": "#1a2d45",
+  "icons": [
+    { "src": "/icon.svg", "sizes": "any", "type": "image/svg+xml" }
+  ]
+}
